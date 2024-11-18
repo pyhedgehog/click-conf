@@ -9,7 +9,7 @@ except Exception:
 setup(
     name='click-conf',
     author='Moshe Zada',
-    version='0.0.1',
+    version='0.0.2',
     keywords=['click', 'conf', 'cli', 'yaml', 'python', 'json', 'config'],
     url='https://github.com/Moshe/click-conf',
     py_modules=['click_conf'],
